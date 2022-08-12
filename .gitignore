@@ -1,3 +1,6 @@
+# Specific
+.dccache
+
 # Logs
 logs
 *.log
